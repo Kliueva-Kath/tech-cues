@@ -1,0 +1,138 @@
+/* header */
+
+@import url("./blocks/header/header.css");
+@import url("./blocks/header/__discover-info/header__discover-info.css");
+@import url("./blocks/header/__discover-link/header__discover-link.css");
+@import url("./blocks/header/__logo/header__logo.css");
+@import url("./blocks/header/__menu/header__menu.css");
+@import url("./blocks/header/__menu-item/header__menu-item.css");
+@import url("./blocks/header/__menu-link/header__menu-link.css");
+@import url("./blocks/header/__menu-arrow/header__menu-arrow.css");
+@import url("./blocks/header/__search-icon/header__search-icon.css");
+@import url("./blocks/header/__search/header__search.css");
+@import url("./blocks/header/__subscribe-button/header__subscribe-button.css");
+
+/* body, page and content */
+
+@import url("./blocks/body/body.css");
+@import url("./blocks/root/root.css");
+@import url("./blocks/content/content.css");
+
+/* top article section */
+
+@import url("./blocks/top-article/top-article.css");
+@import url("./blocks/top-article/__author/top-article__author.css");
+@import url("./blocks/top-article/__bottom-dots/top-article__bottom-dots.css");
+@import url("./blocks/top-article/__category/top-article__category.css");
+@import url("./blocks/top-article/__content/top-article__content.css");
+@import url("./blocks/top-article/__date/top-article__date.css");
+@import url("./blocks/top-article/__header/top-article__header.css");
+@import url("./blocks/top-article/__image/top-article__image.css");
+@import url("./blocks/top-article/__text/top-article__text.css");
+@import url("./blocks/top-article/__top-dots/top-article__top-dots.css");
+
+/* recent articles section */
+
+@import url("./blocks/recent-articles/recent-articles.css");
+@import url("./blocks/recent-articles/__article-author/recent-articles__article-author.css");
+@import url("./blocks/recent-articles/__article-category/recent-articles__article-category.css");
+@import url("./blocks/recent-articles/__article-header/recent-articles__article-header.css");
+@import url("./blocks/recent-articles/__article-image/recent-articles__article-image.css");
+@import url("./blocks/recent-articles/__article-link/recent-articles__article-link.css");
+@import url("./blocks/recent-articles/__article/recent-articles__article.css");
+@import url("./blocks/recent-articles/__articles-container/recent-articles__articles-container.css");
+@import url("./blocks/recent-articles/__header-bottom/recent-articles__header-bottom.css");
+@import url("./blocks/recent-articles/__header/recent-articles__header.css");
+@import url("./blocks/recent-articles/__right-arrow/recent-articles__right-arrow.css");
+@import url("./blocks/recent-articles/__top-panel/recent-articles__top-panel.css");
+@import url("./blocks/recent-articles/__view-all/recent-articles__view-all.css");
+
+/* free ebook section */
+
+@import url("./blocks/free-ebook/free-ebook.css");
+@import url("./blocks/free-ebook/__category/free-ebook__category.css");
+@import url("./blocks/free-ebook/__container/free-ebook__container.css");
+@import url("./blocks/free-ebook/__header/free-ebook__header.css");
+
+/* case studies section */
+
+@import url("./blocks/case-studies/case-studies.css");
+@import url("./blocks/main-article/__author/main-article__author.css");
+@import url("./blocks/main-article/__header/main-article__header.css");
+@import url("./blocks/main-article/__image/main-article__image.css");
+@import url("./blocks/case-studies/__articles/case-studies__articles.css");
+@import url("./blocks/case-studies/__content/case-studies__content.css");
+@import url("./blocks/case-studies/__dots/case-studies__dots.css");
+@import url("./blocks/case-studies/__main-article/case-studies__main-article.css");
+
+/* three sections in a row */
+
+@import url("./blocks/sections-row/sections-row.css");
+
+/* mobile technology section */
+
+@import url("./blocks/mobile-technology/mobile-technology.css");
+
+/* subscribe for news section */
+
+@import url("./blocks/news-subscribe/news-subscribe.css");
+@import url("./blocks/news-subscribe/__header/news-subscribe__header.css");
+@import url("./blocks/news-subscribe/__heading/news-subscribe__heading.css");
+@import url("./blocks/news-subscribe/__icon/news-subscribe__icon.css");
+
+/* data insights section */
+
+@import url("./blocks/data-insights/data-insights.css");
+
+/* footer */
+
+@import url("./blocks/footer/footer.css");
+@import url("./blocks/footer/__column-container/footer__column-container.css");
+@import url("./blocks/footer/__column-header/footer__column-header.css");
+@import url("./blocks/footer/__column-item/footer__column-item.css");
+@import url("./blocks/footer/__column-link/footer__column-link.css");
+@import url("./blocks/footer/__icons/footer__icons.css");
+@import url("./blocks/footer/__logo/footer__logo.css");
+@import url("./blocks/footer/__main-content/footer__main-content.css");
+@import url("./blocks/footer/__menu-column/footer__menu-column.css");
+@import url("./blocks/footer/__subscribe-header/footer__subscribe-header.css");
+@import url("./blocks/footer/__subscribe/footer__subscribe.css");
+
+/* social contacts */
+
+@import url("./blocks/socials/socials.css");
+@import url("./blocks/socials/__facebook/socials__facebook.css");
+@import url("./blocks/socials/__instagram/socials__instagram.css");
+@import url("./blocks/socials/__link/socials__link.css");
+@import url("./blocks/socials/__slack/socials__slack.css");
+@import url("./blocks/socials/__twitter/socials__twitter.css");
+
+/* bottom-pannel */
+
+@import url("./blocks/bottom-panel/bottom-panel.css");
+@import url("./blocks/bottom-panel/__item/bottom-panel__item.css");
+
+/* top panel for sections */
+
+@import url("./blocks/section/__header-bottom/section__header-bottom.css");
+@import url("./blocks/section/__header/section__header.css");
+@import url("./blocks/section/__right-arrow/section__right-arrow.css");
+@import url("./blocks/section/__top-panel/section__top-panel.css");
+@import url("./blocks/section/__view-all/section__view-all.css");
+
+/* form */
+
+@import url("./blocks/form/form.css");
+@import url("./blocks/form/__email-input/form__email-input.css");
+@import url("./blocks/form/__header/form__header.css");
+@import url("./blocks/form/__subscribe-button/form__subscribe-button.css");
+@import url("./blocks/form/_type/_free-ebook/form_type_free-ebook.css");
+@import url("./blocks/form/_type/_news/form_type_news.css");
+
+/* articles */
+
+@import url("./blocks/articles-list/articles-list.css");
+@import url("./blocks/article/article.css");
+@import url("./blocks/article/__author/article__author.css");
+@import url("./blocks/article/__header/article__header.css");
+@import url("./blocks/article/__link/article__link.css");
