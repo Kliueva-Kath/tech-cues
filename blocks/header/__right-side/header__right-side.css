@@ -1,5 +1,5 @@
-.header__menu-item {
+.header__right-side {
     display: flex;
+    gap: 19px;
     align-items: center;
-    gap: 9px;
 }

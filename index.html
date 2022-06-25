@@ -6,55 +6,40 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tech Cues</title>
+    <link rel="stylesheet" href="index.css" />
 </head>
 
 <body class="body">
     <div class="page">
         <header class="header">
-            <p class="header__discover-info">
-                Discover how you can scale your data with TechCues
-            </p>
-            <a class="header__discover-link" href="#">Learn More</a>
-            <img class="header__logo" src="./images/header/header__logo.svg">
-            <ul class="header__menu">
-                <li class="header__menu-item">
-                    <a class="header__menu-link" href="#">Categories</a>
-                    <svg class="header__menu-arrow" width="10" height="7" viewBox="0 0 10 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M9 1L5 6L1 1"
-                stroke="#5C5CFF"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              />
-            </svg>
+            <div class="header__top-panel">
+                <p class="header__discover-info">
+                    Discover how you can scale your data with TechCues
+                </p>
+                <a class="header__discover-link" href="#">Learn More</a>
+            </div>
+            <div class="header__bottom-panel">
+                <div class="header__left-side">
+                    <img class="header__logo" src="./images/header/header__logo.svg">
+                    <ul class="header__menu">
+                        <li class="header__menu-item">
+                            <a class="header__menu-link" href="#">Categories</a>
+                            <button class="header__menu-arrow" type="button">
                 </li>
                 <li class="header__menu-item">
                     <a class="header__menu-link" href="#">Authors</a>
                 </li>
                 <li class="header__menu-item">
                     <a class="header__menu-link" href="#">Template</a>
-                    <svg class="header__menu-arrow" width="10" height="7" viewBox="0 0 10 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path
-                d="M9 1L5 6L1 1"
-                stroke="#5C5CFF"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              />
-            </svg>
+                    <button class="header__menu-arrow" type="button">
                 </li>
             </ul>
-            <button class="header__search" type="button"></button>
-            <svg class="header__search-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path
-            d="M11.9524 23.381C18.2642 23.381 23.3809 18.2642 23.3809 11.9524C23.3809 5.64056 18.2642 0.523811 11.9524 0.523811C5.64055 0.523811 0.523804 5.64056 0.523804 11.9524C0.523804 18.2642 5.64055 23.381 11.9524 23.381Z"
-            stroke="#514D66"
-            stroke-linecap="round"
-          />
-        </svg>
-            </button>
-            <button class="header__subscribe-button" type="button">
-          Subscribe
-        </button>
+            </div>
+            <div class="header__right-side">
+              <button class="header__search" type="button"></button>
+                            <button class="header__subscribe-button" type="button">SUBSCRIBE</button>
+                </div>
+            </div>
         </header>
         <main class="content">
             <section class="top-article">
@@ -121,7 +106,7 @@
                     <h2 class="free-ebook__header">5 Things You Can Do Right Now to Speed up Your Workflow</h2>
                     <form class="form form_type_free-ebook">
                         <input class="form__email-input" placeholder="Email address" type="email">
-                        <button class="form__subscribe-button" type="submit">Email address</button>
+                        <button class="form__subscribe-button" type="submit">SUBSCRIBE</button>
                     </form>
                 </div>
             </section>
@@ -301,7 +286,7 @@
                     <h2 class="footer__subscribe-header form__header">Quality tech news <br> In your inbox. Every week.</h2>
                     <form class="form form_type_news">
                         <input class="form__email-input" placeholder="Email address" type="email">
-                        <button class="form__subscribe-button" type="submit">Email address</button>
+                        <button class="form__subscribe-button" type="submit">SUBSCRIBE</button>
                     </form>
                 </div>
             </div>

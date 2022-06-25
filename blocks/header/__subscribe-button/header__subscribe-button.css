@@ -1,0 +1,16 @@
+.header__subscribe-button {
+    font-family: "Inter", "Arial", sans-serif;
+    appearance: none;
+    box-sizing: border-box;
+    display: block;
+    border: none;
+    background: #5c5cff;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.92;
+    text-align: center;
+    border-radius: 4px;
+    height: 44px;
+    width: 130px;
+}

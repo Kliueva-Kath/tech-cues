@@ -1,0 +1,14 @@
+.header__discover-link {
+    font-family: "Inter", "Arial", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2.22;
+    text-align: center;
+    color: #ababfa;
+    text-decoration: none;
+    margin: 0;
+}
+
+.header__discover-link:hover {
+    opacity: 0.8;
+}

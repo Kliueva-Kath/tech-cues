@@ -1,14 +1,17 @@
 /* header */
 
 @import url("./blocks/header/header.css");
+@import url("./blocks/header/__top-panel/header__top-panel.css");
 @import url("./blocks/header/__discover-info/header__discover-info.css");
 @import url("./blocks/header/__discover-link/header__discover-link.css");
+@import url("./blocks/header/__bottom-panel/header__bottom-panel.css");
+@import url("./blocks/header/__left-side/header__left-side.css");
 @import url("./blocks/header/__logo/header__logo.css");
 @import url("./blocks/header/__menu/header__menu.css");
 @import url("./blocks/header/__menu-item/header__menu-item.css");
 @import url("./blocks/header/__menu-link/header__menu-link.css");
 @import url("./blocks/header/__menu-arrow/header__menu-arrow.css");
-@import url("./blocks/header/__search-icon/header__search-icon.css");
+@import url("./blocks/header/__right-side/header__right-side.css");
 @import url("./blocks/header/__search/header__search.css");
 @import url("./blocks/header/__subscribe-button/header__subscribe-button.css");
 

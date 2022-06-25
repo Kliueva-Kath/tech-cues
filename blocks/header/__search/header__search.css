@@ -1,0 +1,12 @@
+.header__search {
+    appearance: none;
+    box-sizing: border-box;
+    display: block;
+    border: none;
+    background-image: url("../../../images/header/header__search-icon.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    width: 32px;
+    height: 32px;
+}

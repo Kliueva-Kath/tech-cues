@@ -1,0 +1,6 @@
+.header__bottom-panel {
+    display: flex;
+    padding: 20px 40px;
+    justify-content: space-between;
+    box-shadow: 6px 6px 16px rgba(17, 17, 49, 0.12);
+}

@@ -1,0 +1,13 @@
+.header__menu-arrow {
+    appearance: none;
+    box-sizing: border-box;
+    display: block;
+    border: none;
+    background-image: url("../../../images/header/header__menu-arrow.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    height: 5px;
+    width: 8px;
+    padding: 0;
+}

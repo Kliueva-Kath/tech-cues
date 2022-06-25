@@ -1,0 +1,9 @@
+.header__top-panel {
+    background-color: #111131;
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+    min-height: 44px;
+    margin: 0;
+}

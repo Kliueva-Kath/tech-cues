@@ -1,0 +1,14 @@
+.header__menu-link {
+    font-family: "Inter", "Arial", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 2.06;
+    text-align: center;
+    color: #413e52;
+    margin: 0;
+    text-decoration: none;
+}
+
+.header__menu-link:hover {
+    opacity: 0.8;
+}
