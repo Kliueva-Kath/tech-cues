@@ -31,6 +31,8 @@
 @import url("./blocks/top-article/__date/top-article__date.css");
 @import url("./blocks/top-article/__header/top-article__header.css");
 @import url("./blocks/top-article/__image/top-article__image.css");
+@import url("./blocks/top-article/__link/top-article__link.css");
+@import url("./blocks/top-article/__left-border/top-article__left-border.css");
 @import url("./blocks/top-article/__text/top-article__text.css");
 @import url("./blocks/top-article/__top-dots/top-article__top-dots.css");
 

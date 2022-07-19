@@ -1,0 +1,5 @@
+.top-article__bottom-dots {
+	position: absolute;
+	transform: translate(-56px, 241px);
+	z-index: -1;
+}

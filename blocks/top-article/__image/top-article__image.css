@@ -1,0 +1,5 @@
+.top-article__image {
+	max-width: 609px;
+	max-height: 560px;
+	object-fit: contain;
+}

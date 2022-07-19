@@ -1,0 +1,11 @@
+.top-article__category {
+  font-family: "Inter", "Arial", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.29;
+	letter-spacing: 1.4px;
+	text-transform: uppercase;
+	color: #5C5CFF;
+	margin: 0 0 33px;
+}
