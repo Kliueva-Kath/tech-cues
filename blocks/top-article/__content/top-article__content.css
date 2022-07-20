@@ -1,3 +1,5 @@
 .top-article__content {
-	display: flex;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
 }

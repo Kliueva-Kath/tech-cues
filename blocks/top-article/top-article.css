@@ -1,11 +1,11 @@
 .top-article {
-	max-width: 1220px;
-	display: flex;
-	position: relative;
-	margin: 128px 111px 184px;
-	background: #FFFFFF;
-	box-sizing: border-box;
-	border: 1px solid #EBEAF2;
-//	box-shadow: 0px 24px 24px rgba(52, 52, 147, 0.32);
-	border-radius: 8px;
+  max-width: 1220px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin: 128px 111px 184px;
+  background: #ffffff;
+  box-sizing: border-box;
+  border: 1px solid #ebeaf2;
+  border-radius: 8px 0 0 8px;
 }
